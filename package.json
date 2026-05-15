@@ -2,7 +2,7 @@
 "name": "reto_fullstack",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://brianalvarezmaya-commits.github.io/reto_fullstack/", 
+  "homepage": "https://brianalvarezmaya-commits.github.io/reto/", 
   "type": "module",
   "scripts": {
     "dev": "vite",
